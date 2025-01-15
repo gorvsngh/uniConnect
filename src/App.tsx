@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { BookOpen, Users, MessageCircle, Bell, Menu, X, Calculator, Calendar, Send, PlusCircle } from 'lucide-react';
 
 function App() {
